@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  },
+  "dependencies": {
+    "mocha": "^6.2.2",
+    "pg": "^7.12.1",
+    "ts-node": "^8.5.2",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.7.2"
+  }
+}
