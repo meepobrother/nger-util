@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@types/ramda": "^0.26.34",
+    "date-fns": "^2.7.0",
     "ramda": "^0.26.1",
     "ts-toolbelt": "^4.10.8",
     "typeorm": "^0.2.20"
